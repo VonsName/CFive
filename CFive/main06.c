@@ -110,7 +110,7 @@ void free_sort(char ***p,int num)
 /**
  * C提高第五天第七课时
  */
-int main(int argc,char *argv[])
+int main061(int argc,char *argv[])
 {
 	
 	char *p1[] = {

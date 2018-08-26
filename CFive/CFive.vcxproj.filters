@@ -33,5 +33,22 @@
     <ClCompile Include="main06.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="main07.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main08.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main09.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cfg.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cfg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
